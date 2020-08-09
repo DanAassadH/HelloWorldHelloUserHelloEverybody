@@ -12,3 +12,5 @@ This is my first C# Console application. It is not for distribution and I am not
 	Source code must be delivered to client
 
 	Maintenance and new features to be handled by client’s nephew.
+
+https://trello.com/b/YnJx9Fi7/c-introduction-hello-world
