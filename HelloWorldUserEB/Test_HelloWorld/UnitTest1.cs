@@ -10,6 +10,7 @@ namespace Test_HelloWorld
         [SetUp]
         public void Setup()
         {
+            //setting key pressed value to enter
             HelloWorldUserEB.Program.keyPressed = ConsoleKey.Enter;
 
         }
